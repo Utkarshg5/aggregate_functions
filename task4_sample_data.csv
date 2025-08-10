@@ -1,0 +1,11 @@
+order_id,customer_id,product,category,quantity,price
+1,101,Laptop,Electronics,1,55000
+2,102,Mobile,Electronics,2,15000
+3,103,Desk,Furniture,1,8000
+4,101,Chair,Furniture,4,2500
+5,104,Book,Stationery,5,300
+6,102,Pen,Stationery,10,20
+7,105,Monitor,Electronics,1,12000
+8,106,Notebook,Stationery,7,50
+9,103,Lamp,Furniture,2,1500
+10,104,Tablet,Electronics,1,22000
