@@ -1,11 +1,10 @@
-# Task 4: Aggregate Functions and Grouping
+# Aggregate Functions and Grouping
 
 ## 🎯 Objective
 Use aggregate functions and grouping to summarize data effectively.
 
 ## 🛠 Tools
 - DB Browser for SQLite
-- MySQL Workbench
 - Oracle SQL Developer
 
 ## 📂 Files in This Repository
